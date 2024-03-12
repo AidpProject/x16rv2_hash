@@ -6,4 +6,4 @@ You can use this repo for python or nodejs, or simply refer to the C files to se
 
 For python, run ``python setup.py install`` (virtualenv with python 3.7 is my recommendation)
 
-For nodejs, you should be able to do ``npm install https://github.com/traysi/x16rv2_hash/``
+For nodejs, you should be able to do ``npm install https://github.com/aidpproject/x16rv2_hash/``
